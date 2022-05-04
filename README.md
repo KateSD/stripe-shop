@@ -1,4 +1,5 @@
-# Presentation of the project
+### E-commerce based on React/Redux/Stripe/Node-Express/Firebase
 
-https://www.loom.com/share/7b0241530ef54fbfaf80eb6eef1c68b8
-# stripe-shop
+[Demo](https://www.loom.com/share/7b0241530ef54fbfaf80eb6eef1c68b8)
+
+
